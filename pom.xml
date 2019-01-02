@@ -43,4 +43,8 @@
 		</plugins>
 	</build>
 
+	<scm>
+		<developerConnection>scm:git:https://github.com/nubunto/spring-pet-clinic.git</developerConnection>
+	</scm>
+
 </project>
